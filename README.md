@@ -265,3 +265,4 @@ Prefix and suffix lookups are fast and can scale to very large lists.
 - https://github.com/jedisct1/dnscrypt-proxy
 - https://github.com/cofyc/dnscrypt-wrapper
 "# dnscryptwrap" 
+"# dnswrap" 
